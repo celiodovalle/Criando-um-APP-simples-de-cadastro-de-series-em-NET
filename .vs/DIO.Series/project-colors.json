@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cc31b5f-5d94-426d-8dd1-767fa00cbb68": {
+      "ProjectGuid": "6cc31b5f-5d94-426d-8dd1-767fa00cbb68",
+      "DisplayName": "DIO.Series",
+      "ColorIndex": 0
+    },
+    "88957fab-5696-4134-9693-3e9f0d90c8b4": {
+      "ProjectGuid": "88957fab-5696-4134-9693-3e9f0d90c8b4",
+      "DisplayName": "DIO.Series",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
